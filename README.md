@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I'm a **BCA graduate and MERN Stack Developer** focused on building scalable web and mobile applications.
 
